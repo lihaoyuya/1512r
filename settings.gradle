@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':lihaoyu20170410', ':lihaoyu20170410r', ':mxlistview'

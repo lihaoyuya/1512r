@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lihaoyu20170410" />
+            <option value="$PROJECT_DIR$/lihaoyu20170410r" />
+            <option value="$PROJECT_DIR$/mxlistview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
